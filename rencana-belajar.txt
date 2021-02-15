@@ -4,6 +4,5 @@ RENCANA BELAJAR
 - HTML / CSS dasar
   - laravel
   - HTML 5
-  - vlog
-
+ 
 
