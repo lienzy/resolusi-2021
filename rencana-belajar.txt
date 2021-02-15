@@ -1,5 +1,5 @@
-rencana belajar 
+RENCANA BELAJAR
+- JavaScript dasar
+- PHP mid
+- HTML / CSS dasar
 
-- JavaScript
-- PHP
-- HTML / CSS
