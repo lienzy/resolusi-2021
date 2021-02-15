@@ -2,7 +2,10 @@ RENCANA BELAJAR
 - JavaScript dasar
 - PHP mid
 - HTML / CSS dasar
-  - laravel
-  - HTML 5
- 
+  - Laravel
+  - CSS 3
+  - HTML 5 
+- struktur data dasar
+- view
+
 
