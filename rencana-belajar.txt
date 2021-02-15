@@ -1,0 +1,5 @@
+RENCANA BELAJAR
+- JavaScript dasar
+- PHP mid
+- HTML / CSS dasar
+
