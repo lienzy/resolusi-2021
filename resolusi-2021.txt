@@ -3,4 +3,4 @@ resolusi 2021
 - membuat website portofolio sendiri
 - menyimpan hasil karya ke git/github
 - belajar git/github
-- mengumpulkan uang 10jt
+- mendapatkan uang
