@@ -1,0 +1,5 @@
+rencana belajar 
+
+- JavaScript
+- PHP
+- HTML / CSS
