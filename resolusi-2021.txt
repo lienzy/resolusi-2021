@@ -1,0 +1,5 @@
+resolusi 2021
+- konsisten belajar program web
+- membuat website portofolio sendiri
+- menyimpan hasil karya ke git/github
+- belajar git/github 
